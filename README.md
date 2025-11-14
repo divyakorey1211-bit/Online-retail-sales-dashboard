@@ -100,10 +100,8 @@ Online-Retail-Sales-Dashboard/
 
 ## 📸 Screenshots
 
-```md
 ![Sales Overview](images/Page_1.png)
 ![Customer Insights](images/Page_2.png)
-```
 
 ---
 
